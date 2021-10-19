@@ -10,4 +10,3 @@ AI Project adalah salah satu pemenuhan tugas besar dari mata kuliah kecerdasan b
 1. Audia Alma Erliana - audiaae29@gmail.com
 2. Tiara Qurrota A'yun - tiaraqurrotaaa@gmail.com
 
-<p align="right">(<a href="#top">back to top</a>)</p>
